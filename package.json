@@ -1,0 +1,25 @@
+{
+  "name": "mocha-tap-reporter",
+  "version": "0.1.0",
+  "description": "Another TAP reporter for mocha. It adds prefix # for error stacktrace, so that it can be recognized as diagnostics in Jenkins TAP plugin.",
+  "main": "index.js",
+  "directories": "./lib",
+  "keywords": [
+    "mocha",
+    "jenkins",
+    "reporter",
+    "TAP"
+  ],
+  "dependencies": {
+    "mocha": "*"
+  },
+  "author": {
+    "name": "Yin Li"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lyroyce/mocha-tap-reporter.git"
+  },
+  "readmeFilename": "README.md"
+}
