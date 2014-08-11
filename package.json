@@ -1,7 +1,7 @@
 {
   "name": "mocha-tap-reporter",
-  "version": "0.1.0",
-  "description": "Another TAP reporter for mocha. It adds prefix # for error stacktrace, so that it can be recognized as diagnostics in Jenkins TAP plugin.",
+  "version": "0.1.1",
+  "description": "A mocha TAP reporter that works perfectly with Jenkins TAP plugin.",
   "main": "index.js",
   "directories": "./lib",
   "keywords": [
