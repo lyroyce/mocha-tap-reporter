@@ -1,6 +1,6 @@
 {
   "name": "mocha-tap-reporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A mocha TAP reporter that works perfectly with Jenkins TAP plugin.",
   "main": "index.js",
   "directories": "./lib",
